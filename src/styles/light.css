@@ -1,0 +1,111 @@
+.theme-plugin-light-mode {
+  --theme-page: #edf4f5;
+  --theme-page-text: #3b4559;
+  --theme-page-text-light: #9ea7bc;
+  --theme-page-instructions-text: #3b4559;
+  --theme-page-instructions-background: rgba(200,200,200,0.4);
+  --theme-modal: #ffffff;
+
+  --theme-intro-gradient-1: rgba(255,255,255,0);
+  --theme-intro-gradient-2: rgba(255,255,255,0.95);
+
+  --theme-header-text: #2b3748;
+  --theme-caption-text: #000;
+  --theme-caption-read: #8795a1;
+  --theme-announcements-gradient-1: rgba(255,255,255,0);
+  --theme-announcements-gradient-2: rgba(255,255,255,0.95);
+
+  --theme-line-separator: #dae1e7;
+  --theme-wallet-overview-border: #dae1e7;
+
+  --theme-table-row-hover: #f8f9fd;
+  --theme-transaction-sent: #fef4f5;
+  --theme-transaction-sent-arrow: #e51317;
+  --theme-transaction-received: #e3fcec;
+  --theme-transaction-received-arrow: #2db761;
+  --theme-send-circle-second-signature: #6c5494;
+  --theme-send-circle-second-signature-text: #3b2d54;
+  --theme-send-circle-register-delegate: #d24562;
+  --theme-send-circle-register-delegate-text: #ffffff;
+  --theme-send-circle-vote: #e393a6;
+  --theme-send-circle-vote-text: #954458;
+  --theme-transaction-detail-gradient1: #46466b;
+  --theme-transaction-detail-gradient2: #343a53;
+  --theme-transaction-detail-arrow: #4d536c;
+
+  --theme-wallet-new-selected: #282a2b;
+  --theme-wallet-new-unselected: #9ea7bc;
+  --theme-wallet-sign-verify-message-text: #c5cfde;
+  --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
+
+  --theme-feature: white;
+  --theme-feature-item-text: #c0cddf;
+  --theme-feature-item-hover: #fef4f5;
+  --theme-feature-item-alternative: #f0f2f9;
+  --theme-feature-item-alternative-text: #8b9bab;
+  --theme-feature-item-hover-text: #e6b1b5;
+  --theme-feature-item-selected: #fef4f5;
+  --theme-feature-item-selected-text: #ce6970;
+  --theme-feature-item-indicator: #f03643;
+
+  --theme-secondary-feature: #f7f9fb;
+
+  --theme-button-special-choice: #e78068;
+
+  --theme-heading-background: #343956;
+  --theme-heading-text: #c0cddf;
+
+  --theme-chart-background: #f8fafc;
+  --theme-chart-price: #3b4559;
+
+  --theme-button: #e0f0fd;
+  --theme-button-active: #c5dbed;
+  --theme-button-text: #037cff;
+  --theme-button-light: #f1f5f8;
+  --theme-button-light-text: #8795a1;
+  --theme-button-inner-box: #c6dcee;
+  --theme-action-button: #eff0f6;
+  --theme-action-button-text: #8d93ad;
+  --theme-action-button-text-hover: #789fba;
+  --theme-option-button: #3d456d;
+  --theme-option-button-hover: #cc5e60;
+  --theme-option-button-text: #8894cf;
+  --theme-switch-button: #e0f0fd;
+  --theme-option-heading-button: #3d456d;
+  --theme-option-heading-button-hover: #cc5e60;
+  --theme-option-heading-button-text: #8894cf;
+  --theme-input-toggle-choice: #f1f5f8;
+  --theme-input-toggle-choice-text: #606f7b;
+  --theme-input-field-border: #b9c2d7;
+  --theme-modal-footer-button: #e7d28e;
+  --theme-modal-footer-button-text: #b3a36f;
+
+  --theme-explanation-background: #e2edf8;
+  --theme-explanation-text: #7f95ab;
+
+  --theme-settings: white;
+  --theme-settings-hover: #f0f1f8;
+  --theme-settings-sub: #2d3747; /* NOTE: not used on light theme */
+  --theme-settings-button: #2d3747; /* NOTE: not used on light theme */
+  --theme-settings-heading: #2d3747;
+  --theme-settings-border: #f1f2f8;
+  --theme-settings-text: #8a91b8;
+  --theme-settings-text-hover: #8a91b8;
+  --theme-settings-switch: #f1f4f7;
+  --theme-settings-control-title: #2d3747;
+
+  --theme-voting-banner-background: #e2edf8;
+  --theme-voting-banner-text: #7f95ab;
+  --theme-voting-banner-button: #cfddec;
+  --theme-voting-banner-button-hover: #b1c9e2;
+  --theme-voting-banner-button-text: #90a9c6;
+  --theme-voting-banner-button-text-hover: #6785a9;
+
+  --theme-fee-gradient-start: var(--theme-modal);
+  --theme-fee-gradient-end: rgba(0,124,255,0.20);
+  --theme-fee-handler-outside: var(--theme-button-text);
+  --theme-fee-handler-inside: var(--theme-modal);
+  --theme-fee-range-track: var(--theme-page-text-light);
+  --theme-fee-range-track-active: var(--theme-button-text);
+  --theme-fee-range-shadow: rgba(9, 100, 228, 0.34);
+}

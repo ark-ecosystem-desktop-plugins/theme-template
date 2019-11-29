@@ -1,0 +1,37 @@
+{
+  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "version": "0.0.1",
+  "description": "Desktop Wallet - Theme Template",
+  "main": "src/index.js",
+  "author": "Alex Barnsley <alex@ark.io>",
+  "license": "MIT",
+  "desktop-wallet": {
+    "title": "Theme Template",
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "categories": [
+      "theme"
+    ],
+    "permissions": [
+      "THEMES"
+    ],
+    "minVersion": "2.6"
+  },
+  "keywords": [
+    "theme",
+    "template",
+    "@arkecosystem",
+    "desktop-wallet",
+    "plugin"
+  ],
+  "contributors": [
+    "Alex Barnsley <alex@ark.io>"
+  ],
+  "bugs": {
+    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+  },
+  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+  }
+}
