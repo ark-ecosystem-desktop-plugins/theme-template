@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Desktop Wallet - Theme Template",
   "main": "src/index.js",
-  "author": "Alex Barnsley <alex@ark.io>",
+  "author": "Author Name <author@ark.io>",
   "license": "MIT",
   "desktop-wallet": {
     "title": "Theme Template",
@@ -24,7 +24,7 @@
     "plugin"
   ],
   "contributors": [
-    "Alex Barnsley <alex@ark.io>"
+    "Author Name <author@ark.io>"
   ],
   "bugs": {
     "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
