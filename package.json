@@ -1,9 +1,9 @@
 {
   "name": "@arkecosystem/desktop-wallet-theme-template",
   "version": "0.0.1",
-  "description": "Desktop Wallet - Theme Template",
+  "description": "Desktop Wallet Theme Template",
   "main": "src/index.js",
-  "author": "Author Name <author@ark.io>",
+  "author": "Author Name",
   "license": "MIT",
   "desktop-wallet": {
     "title": "Theme Template",
